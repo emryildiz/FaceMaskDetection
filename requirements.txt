@@ -1,0 +1,6 @@
+Keras==2.4.3
+matplotlib==3.3.3
+numpy==1.19.5
+opencv-python==4.5.1.48
+protobuf==3.14.0
+tensorflow-gpu==1.15.0

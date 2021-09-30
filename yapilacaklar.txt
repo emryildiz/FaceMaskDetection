@@ -1,0 +1,11 @@
+Enviremont'ı oluşturuyoruz.
+conda create -n env python=3.6 --channel conda-forge
+
+Enviremont'ımızı aktif ediyoruz.
+conda activate env
+
+Gerekli kütüphaneleri yüklüyoruz.
+pip install -r requirements.txt
+
+Programımızı çalıştırıyoruz.
+python test.py
